@@ -25,13 +25,20 @@ class FilteredCallsList extends React.Component {
   }
 
   onPageChange(event, data) {
-    const { calls, pageSize } = this.state;
+    const { calls, pageSize, column, direction } = this.state;
     console.log(data);
     const activePage = data.activePage;
-    const paginatedCalls = calls.slice(
+    let paginatedCalls = calls.slice(
       (activePage - 1) * pageSize,
       activePage * pageSize
     );
+
+    if (direction === "ascending") {
+      paginatedCalls = _.sortBy(paginatedCalls, [column]);
+    } else if (direction === "descending") {
+      paginatedCalls = _.sortBy(paginatedCalls, [column]);
+      paginatedCalls = paginatedCalls.reverse();
+    }
     this.setState({ currentPage: data.activePage, paginatedCalls });
     const { onPageChange } = this.props;
     onPageChange && onPageChange(data.activePage);
