@@ -1,0 +1,79 @@
+.FilteredCalls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.FilteredCalls--sidebar .FilteredCalls__criteria {
+  flex-direction: column;
+}
+
+.FilteredCalls--sidebar {
+  flex-direction: row;
+}
+
+.FilteredCalls__agentsList {
+  flex-basis: 60%;
+  padding: 8px 16px;
+}
+
+.FilteredCalls__criteria-title {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.FilteredCalls--sidebar .FilteredCalls__criteria-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.FilteredCalls__criteria-list {
+  display: flex;
+  flex-direction: row;
+  min-height: 150px;
+  flex-grow: 1;
+}
+
+.FilteredCalls__duration {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  text-align: left;
+  /* border-left: 1px solid #ccc; */
+}
+
+.FilteredCalls__criteria {
+  background: white;
+  padding: 24px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.FilteredCalls--sidebar .FilteredCalls__criteria {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  margin: 0;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.FilteredCalls--sidebar .FilteredCalls__agentsList {
+  flex-basis: 0;
+  padding: 8px;
+}
+
+.FilteredCalls__actions {
+  margin-top: 8px;
+  text-align: center;
+  width: 100%;
+}
+
+.FilteredCalls__calls {
+  margin: auto;
+  width: 70%;
+}
