@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/prodigal-app/static/css/main.d3891537.chunk.css",
-    "main.js": "/prodigal-app/static/js/main.09e4078a.chunk.js",
-    "main.js.map": "/prodigal-app/static/js/main.09e4078a.chunk.js.map",
+    "main.js": "/prodigal-app/static/js/main.703bda4c.chunk.js",
+    "main.js.map": "/prodigal-app/static/js/main.703bda4c.chunk.js.map",
     "runtime~main.js": "/prodigal-app/static/js/runtime~main.f250c7e9.js",
     "runtime~main.js.map": "/prodigal-app/static/js/runtime~main.f250c7e9.js.map",
     "static/js/2.f6b62345.chunk.js": "/prodigal-app/static/js/2.f6b62345.chunk.js",
     "static/js/2.f6b62345.chunk.js.map": "/prodigal-app/static/js/2.f6b62345.chunk.js.map",
     "index.html": "/prodigal-app/index.html",
-    "precache-manifest.fd9c66ad9cb893935bcffc8d15942b3b.js": "/prodigal-app/precache-manifest.fd9c66ad9cb893935bcffc8d15942b3b.js",
+    "precache-manifest.fd2f47543e3cb819df2eedd3a902b953.js": "/prodigal-app/precache-manifest.fd2f47543e3cb819df2eedd3a902b953.js",
     "service-worker.js": "/prodigal-app/service-worker.js",
     "static/css/main.d3891537.chunk.css.map": "/prodigal-app/static/css/main.d3891537.chunk.css.map"
   }
