@@ -2,7 +2,7 @@
   "name": "prodigal-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/gaurav5430/prodigal-app.git",
+  "homepage": "http://gaurav5430.github.io/prodigal-app",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.0.1",

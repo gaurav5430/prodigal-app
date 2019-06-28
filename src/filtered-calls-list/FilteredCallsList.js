@@ -10,7 +10,7 @@ class FilteredCallsList extends React.Component {
     this.state = {
       pageSize: pageSize,
       totalPages: Math.ceil(props.calls.length / pageSize),
-      currentPage: 0,
+      currentPage: 1,
 
       loading: false,
       error: false,
@@ -100,7 +100,7 @@ class FilteredCallsList extends React.Component {
   render() {
     const { paginatedCalls } = this.state;
     return (
-      <Table sortable>
+      <Table sortable fixed>
         <Table.Header>{this.renderHeader()}</Table.Header>
         <Table.Body>
           {paginatedCalls.map(call => {
