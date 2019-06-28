@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/prodigal-app/precache-manifest.fd2f47543e3cb819df2eedd3a902b953.js"
+  "/prodigal-app/precache-manifest.9719a3df472177978e1dc8d59e88cc06.js"
 );
 
 self.addEventListener('message', (event) => {

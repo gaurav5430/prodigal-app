@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5895facca32ffa6d35706e807801888e",
+    "revision": "3bdf646657f69697ffe1b8edb4a9e91e",
     "url": "/prodigal-app/index.html"
   },
   {
-    "revision": "c0966ebb97645b443efd",
+    "revision": "7bfa7d27c349e6b82da7",
     "url": "/prodigal-app/static/css/main.d3891537.chunk.css"
   },
   {
-    "revision": "257174040d7727692588",
-    "url": "/prodigal-app/static/js/2.f6b62345.chunk.js"
+    "revision": "8b9a6d42faea7139f15d",
+    "url": "/prodigal-app/static/js/2.e2f1a3db.chunk.js"
   },
   {
-    "revision": "c0966ebb97645b443efd",
-    "url": "/prodigal-app/static/js/main.703bda4c.chunk.js"
+    "revision": "7bfa7d27c349e6b82da7",
+    "url": "/prodigal-app/static/js/main.becd0bdd.chunk.js"
   },
   {
     "revision": "b7541afd3278f0baa5ac",
