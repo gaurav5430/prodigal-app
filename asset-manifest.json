@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gaurav5430/prodigal-app.git/static/css/main.d3891537.chunk.css",
-    "main.js": "/gaurav5430/prodigal-app.git/static/js/main.357da6bb.chunk.js",
-    "main.js.map": "/gaurav5430/prodigal-app.git/static/js/main.357da6bb.chunk.js.map",
-    "runtime~main.js": "/gaurav5430/prodigal-app.git/static/js/runtime~main.0e96a92a.js",
-    "runtime~main.js.map": "/gaurav5430/prodigal-app.git/static/js/runtime~main.0e96a92a.js.map",
-    "static/js/2.f6b62345.chunk.js": "/gaurav5430/prodigal-app.git/static/js/2.f6b62345.chunk.js",
-    "static/js/2.f6b62345.chunk.js.map": "/gaurav5430/prodigal-app.git/static/js/2.f6b62345.chunk.js.map",
-    "index.html": "/gaurav5430/prodigal-app.git/index.html",
-    "precache-manifest.3b06681f5d1f59b87090614104dc13bf.js": "/gaurav5430/prodigal-app.git/precache-manifest.3b06681f5d1f59b87090614104dc13bf.js",
-    "service-worker.js": "/gaurav5430/prodigal-app.git/service-worker.js",
-    "static/css/main.d3891537.chunk.css.map": "/gaurav5430/prodigal-app.git/static/css/main.d3891537.chunk.css.map"
+    "main.css": "/prodigal-app/static/css/main.d3891537.chunk.css",
+    "main.js": "/prodigal-app/static/js/main.1b1eb052.chunk.js",
+    "main.js.map": "/prodigal-app/static/js/main.1b1eb052.chunk.js.map",
+    "runtime~main.js": "/prodigal-app/static/js/runtime~main.f250c7e9.js",
+    "runtime~main.js.map": "/prodigal-app/static/js/runtime~main.f250c7e9.js.map",
+    "static/js/2.f6b62345.chunk.js": "/prodigal-app/static/js/2.f6b62345.chunk.js",
+    "static/js/2.f6b62345.chunk.js.map": "/prodigal-app/static/js/2.f6b62345.chunk.js.map",
+    "index.html": "/prodigal-app/index.html",
+    "precache-manifest.fccff3a07866d25605dc0d1e729f88a7.js": "/prodigal-app/precache-manifest.fccff3a07866d25605dc0d1e729f88a7.js",
+    "service-worker.js": "/prodigal-app/service-worker.js",
+    "static/css/main.d3891537.chunk.css.map": "/prodigal-app/static/css/main.d3891537.chunk.css.map"
   }
 }
